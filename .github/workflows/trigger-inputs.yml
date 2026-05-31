@@ -15,7 +15,7 @@ on:
                     - all
                 required: true
             environment:
-                description: "Deployment target"
+                description: "Deployment environment"
                 type: environment
                 required: true
             build-number:
